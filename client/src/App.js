@@ -2,6 +2,7 @@ import React from 'react'
 import Login from './admin-module/login'
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Admindashboard from './admin-module/admin-dashboard';
+import './index.css';
 
 
 const App = () => {

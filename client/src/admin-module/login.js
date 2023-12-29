@@ -1,11 +1,17 @@
 import React from 'react'
 
 
+
+
 const Login = () => {
   return (
-    <div>
-      login
-    </div>
+    <>
+     <section  className='h-screen bg-[#FCEBF2]'>
+        <div className='text-2xl'>
+
+        </div>
+     </section>
+    </>
   )
 }
 
