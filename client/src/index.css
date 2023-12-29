@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.login-bg{
+    background-image: url(../public//login-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-size: 100%; */
+    background-position: top center;
+}
